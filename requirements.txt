@@ -1,0 +1,9 @@
+requests
+Flask
+Flask-REST
+flask-restplus
+flask-restx
+flask_restx
+flask-cors
+pymssql
+psycopg2
